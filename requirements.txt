@@ -6,6 +6,7 @@ langchain-experimental
 langchain-huggingface
 sentence-transformers
 python-dotenv
+duckduckgo-search
 
 # Vector Databases
 faiss-cpu
@@ -17,5 +18,3 @@ numpy
 
 # Web/Data Fetching
 requests
-duckduckgo-search
-
