@@ -1,0 +1,21 @@
+# Core LangChain + LLMs
+langchain
+langchain-community
+langchain-groq
+langchain-experimental
+langchain-huggingface
+sentence-transformers
+python-dotenv
+
+# Vector Databases
+faiss-cpu
+chromadb
+
+# Data Handling
+pandas
+numpy
+
+# Web/Data Fetching
+requests
+duckduckgo-search
+
