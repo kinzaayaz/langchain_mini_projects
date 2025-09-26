@@ -7,6 +7,7 @@ langchain-huggingface
 sentence-transformers
 python-dotenv
 duckduckgo-search
+beautifulsoup4
 
 # Vector Databases
 faiss-cpu
